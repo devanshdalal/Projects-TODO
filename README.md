@@ -6,4 +6,4 @@
 4. ~~Implement Zerodha statement analyzer tool in python.~~
 5. Rewamp portfolio page from the create react app project.
 6. Benchmark Redshit and publish results.
-7. Explore support of LRU cache in js.
+7. Explore support of LRU ls cache in js.
