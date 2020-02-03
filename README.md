@@ -7,3 +7,4 @@
 5. Rewamp portfolio page from the create react app project.
 6. Benchmark Redis and publish results.
 7. Explore support of LRU ls cache in js.
+8. TODO: graphql project.
