@@ -8,5 +8,5 @@
 6. Benchmark Redis and publish results.
 7. Explore support of LRU ls cache in js.
 8. TODO: graphql project.
-9. Implement FFD for 1 instrument in AWS lambda free tier. 
+9. Implement FFD(or some RSI based notifications) for 1 instrument in AWS lambda free tier.
 
