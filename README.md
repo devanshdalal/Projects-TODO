@@ -8,4 +8,5 @@
 6. Benchmark Redis and publish results.
 7. ~Explore support of LRU ls cache in js.~ ***Scrapped***
 8. TODO: graphql project.
+9. TODO: Implement a go server-client application. 
 
