@@ -11,4 +11,5 @@
 9. TODO: Implement a go server-client application.
 10. Implement wows aiming mod.
 11. Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.
+12. Nifty PE chrome extention
 
