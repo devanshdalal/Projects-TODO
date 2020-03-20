@@ -11,6 +11,6 @@
 9. TODO: Implement a go server-client application.
 10. Implement wows aiming mod.
 11. Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.
-12. Nifty PE chrome extention
+12. ~Nifty PE chrome extention.~ ***Scrapped*** [https://nifty-pe-ratio.com/](https://nifty-pe-ratio.com)
 13. Please do https://www.kaggle.com/c/covid19-global-forecasting-week-1 asap.
 
