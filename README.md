@@ -13,4 +13,5 @@
 11. Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.
 12. ~Nifty PE chrome extention.~ ***Scrapped*** [https://nifty-pe-ratio.com/](https://nifty-pe-ratio.com)
 13. ~Please do https://www.kaggle.com/c/covid19-global-forecasting-week-1 asap.~ ***Scrapped*** Don't have time.
+14. Get the cirtificate for aws serverless course before starting the cloud computing part 3.
 
