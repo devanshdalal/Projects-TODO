@@ -16,5 +16,5 @@
 14. Get the cirtificate for aws serverless course before starting the cloud computing part 2.
 15. ~smart-investor~ Committed
 16. Build a go vpn server, and have local configuration for the vpn client.
-17. Create a readme primer on nutrition and learnings so far.
+17. Create a readme primer on nutrition and learnings so far, on medium.
 
