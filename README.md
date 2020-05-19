@@ -10,7 +10,7 @@
 8. TODO: graphql project.
 9. TODO: Implement a go server-client application.
 10. Implement wows aiming mod.
-11. Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.
+11. ~Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.~ ***Scrapped*** `smart-investor`, TODO(devansh): Explore price based strategy as PE based strategy seems to be overfitting.
 12. ~Nifty PE chrome extention.~ ***Scrapped*** [https://nifty-pe-ratio.com/](https://nifty-pe-ratio.com)
 13. ~Please do https://www.kaggle.com/c/covid19-global-forecasting-week-1 asap.~ ***Scrapped*** Don't have time.
 14. ~Get the certificate for aws serverless course before starting the cloud computing part 2.~ ***Scrapped***, no need of serverless course. did the complete aws cloud instead.
