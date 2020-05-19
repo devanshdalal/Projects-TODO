@@ -13,7 +13,7 @@
 11. Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.
 12. ~Nifty PE chrome extention.~ ***Scrapped*** [https://nifty-pe-ratio.com/](https://nifty-pe-ratio.com)
 13. ~Please do https://www.kaggle.com/c/covid19-global-forecasting-week-1 asap.~ ***Scrapped*** Don't have time.
-14. Get the cirtificate for aws serverless course before starting the cloud computing part 2.
+14. ~Get the certificate for aws serverless course before starting the cloud computing part 2.~ ***Scrapped***, no need of serverless course. did the complete aws cloud instead.
 15. ~smart-investor~ Committed
 16. Build a go vpn server, and have local configuration for the vpn client.
 17. Create a readme primer on nutrition and learnings so far, on medium.
