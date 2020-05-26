@@ -8,7 +8,7 @@
 6. Benchmark Redis and publish results.
 7. ~Explore support of LRU ls cache in js.~ ***Scrapped***
 8. TODO: graphql project.
-9. TODO: Implement a go server-client application. ***Scrapped***
+9. ~TODO: Implement a go server-client application.~ ***Scrapped***
 10. Implement wows aiming mod.
 11. ~Find the optimal nifty PE based investment strategy. Evaluate vanila strategy.~ ***Scrapped*** `smart-investor`, TODO(devansh): Explore price based strategy as PE based strategy seems to be overfitting.
 12. ~Nifty PE chrome extention.~ ***Scrapped*** [https://nifty-pe-ratio.com/](https://nifty-pe-ratio.com)
