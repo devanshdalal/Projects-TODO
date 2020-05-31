@@ -18,7 +18,7 @@
 16. Build a go vpn server, and have local configuration for the vpn client.
 17. Create a readme primer on nutrition and learnings so far, on medium.
 18. tiktok trending videos uploader(programatically) account.
-20. A go-grpc and flutter webapp(seedr with local storage and heroku as the network).
+20. ~A go-grpc and flutter webapp(seedr with local storage and heroku as the network).~ ***Scrapped*** [similar project](https://github.com/jpillora/cloud-torrent/issues/82)
 21. ~mfmirror.~ ***Done***
 22. Extract texts from pdf books and convert them into audiobooks.
 
