@@ -15,7 +15,7 @@
 13. ~Please do https://www.kaggle.com/c/covid19-global-forecasting-week-1 asap.~ ***Scrapped*** Don't have time.
 14. ~Get the certificate for aws serverless course before starting the cloud computing part 2.~ ***Scrapped***, no need of serverless course. did the complete aws cloud instead.
 15. ~smart-investor~ Committed
-16. Build a go vpn server, and have local configuration for the vpn client.
+16. ~Build a go vpn server, and have local configuration for the vpn client.~ ***SCrapped***, https://github.com/jpillora/chisel
 17. Create a readme primer on nutrition and learnings so far, on medium.
 18. tiktok trending videos uploader(programatically) account.
 20. ~A go-grpc and flutter webapp(seedr with local storage and heroku as the network).~ ***Scrapped*** [similar project](https://github.com/jpillora/cloud-torrent/issues/82)
