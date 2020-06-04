@@ -20,5 +20,5 @@
 18. tiktok trending videos uploader(programatically) account.
 20. ~A go-grpc and flutter webapp(seedr with local storage and heroku as the network).~ ***Scrapped*** [similar project](https://github.com/jpillora/cloud-torrent/issues/82)
 21. ~mfmirror.~ ***Done***
-22. Extract texts from pdf books and convert them into audiobooks.
+22. Extract texts from pdf books/articles/problems and convert them into audiobooks/solutions/oneline reading.
 
