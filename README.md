@@ -21,4 +21,5 @@
 20. ~A go-grpc and flutter webapp(seedr with local storage and heroku as the network).~ ***Scrapped*** [similar project](https://github.com/jpillora/cloud-torrent/issues/82)
 21. ~mfmirror.~ ***Done***
 22. Extract texts from pdf books/articles/problems and convert them into audiobooks/solutions/oneline reading.
+23. Convert 22). into video running pages.
 
