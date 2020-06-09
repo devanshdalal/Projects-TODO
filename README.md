@@ -24,5 +24,5 @@
 23. Convert 22). into youtube video running pages.
 24. Implement a temporary email service.
 25. Evaluate about implementing a android app for youtube content conversion.
-26. Evaluate making wows stats site.
+26. Evaluate making wows stats site. ***Scrapped*** wows-numbers.com does is so much better.
 
