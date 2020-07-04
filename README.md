@@ -21,7 +21,7 @@
 20. ~A go-grpc and flutter webapp(seedr with local storage and heroku as the network).~ ***Scrapped*** [similar project](https://github.com/jpillora/cloud-torrent/issues/82)
 21. ~mfmirror.~ ***Done***
 22. Extract texts from pdf books/articles/problems and convert them into audiobooks/solutions/oneline reading. ***Scrapped*** because of zoomzar.
-23. Convert 22). into youtube video running pages.
+23. Convert 21). into youtube video running pages.
 24. Implement a temporary email service.
 25. Evaluate about implementing an android app for youtube content conversion.
 26. ~Evaluate making wows stats site.~ ***Scrapped*** wows-numbers.com does is so much better.
