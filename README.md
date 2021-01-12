@@ -27,4 +27,5 @@
 26. ~Evaluate making wows stats site.~ ***Scrapped*** wows-numbers.com does is so much better.
 27. SMS viwer like web app.
 28. Movie Trailers youtube upload channel.
+29. Do https://github.com/vaquarkhan/spring-cloud-sleuth-examples/blob/master/spring-cloud-sleuth-core/src/main/java/org/springframework/cloud/sleuth/instrument/executor/TraceableExecutorService.java for stripe api.
 
