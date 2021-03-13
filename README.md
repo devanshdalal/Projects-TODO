@@ -30,4 +30,5 @@
 29. Do https://github.com/vaquarkhan/spring-cloud-sleuth-examples/blob/master/spring-cloud-sleuth-core/src/main/java/org/springframework/cloud/sleuth/instrument/executor/TraceableExecutorService.java for stripe api.
 30. Tableau public nifty visualizations using google finance data. https://github.com/jugaad-py/jugaad-data
 31. Make self adjusting smallcase to mirror mutual funds.
+32. harperdb vs heroku postgres free tier
 
