@@ -31,5 +31,5 @@
 30. Tableau public nifty visualizations using google finance data. https://github.com/jugaad-py/jugaad-data
 31. Make self adjusting smallcase to mirror mutual funds.
 32. harperdb vs heroku postgres free tier
-33. Future.me ripoff using IMB cloud functions.
+33. Future.me ripoff using IBM cloud functions.
 
