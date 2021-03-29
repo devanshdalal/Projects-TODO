@@ -32,4 +32,5 @@
 31. Make self adjusting smallcase to mirror mutual funds.
 32. harperdb vs heroku postgres free tier
 33. Future.me ripoff using IBM cloud functions.
+34. news api unlocked using elasticsearch free dyno.
 
