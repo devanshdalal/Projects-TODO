@@ -30,7 +30,7 @@
 29. Do https://github.com/vaquarkhan/spring-cloud-sleuth-examples/blob/master/spring-cloud-sleuth-core/src/main/java/org/springframework/cloud/sleuth/instrument/executor/TraceableExecutorService.java for stripe api.
 30. Tableau public nifty visualizations using google finance data. https://github.com/jugaad-py/jugaad-data
 31. Make self adjusting smallcase to mirror mutual funds.
-32. free cult live webapp.
+32. ~free cult live webapp.~ **scrapped** as there are many on demand youtube videos.
 33. harperdb vs heroku postgres free tier
 34. Future.me ripoff using IBM cloud functions.
 35. news api unlocked using elasticsearch free dyno.
